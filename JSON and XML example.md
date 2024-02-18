@@ -1,3 +1,5 @@
+JSON and XML example code
+
 {
     "forecast": [{
         "Monday": {
